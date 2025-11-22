@@ -26,16 +26,6 @@ This project applies supervised machine learning to analyze cricket match dynami
 
 ---
 
-### **Key Features Engineered**
-
-* Current run rate
-* Wickets fallen
-* Runs in the last 5 overs
-* Overs completed
-* Striker and non-striker stats (if available)
-* Partnership performance
-
-
 ### **Technologies Used**
 
 * Python
